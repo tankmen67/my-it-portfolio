@@ -1,4 +1,4 @@
-# 🏠 Homelab IT Projects
+# Homelab IT Projects
 
 ## Overview
 This repository contains my practical IT projects related to system integration, networking, and troubleshooting.
@@ -104,5 +104,5 @@ Mobile internet connection was restored and worked normally again.
 - Importance of checking both technical settings and account status
 - Systematic troubleshooting approach (problem → cause → solution)
 
-## 🎯 Goal
+## Goal
 To improve my practical IT skills and prepare for an apprenticeship as a system integration specialist.
